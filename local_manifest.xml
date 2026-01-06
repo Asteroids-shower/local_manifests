@@ -1,5 +1,5 @@
 <manifest>
-    <remote name="nulldebris" fetch="https://github.com/NullDebris/" />
+    <remote name="Asteroids-shower" fetch="https://github.com/Asteroids-shower/" />
 
     <project path="device/nothing/asteroids" name="android_device_nothing_asteroids" remote="Asteroids-shower" revision="lunaris" />
 
