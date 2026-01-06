@@ -19,5 +19,5 @@
     <project remote="Asteroids-shower" path="packages/apps/ParanoidGlyph" name="packages_apps_ParanoidGlyph" revision="lineage-23.0" />
     <project remote="Asteroids-shower" path="packages/apps/GlyphAdapter" name="packages_apps_GlyphAdapter" revision="15" />
     <project remote="Asteroids-shower" path="hardware/dolby" name="hardware_dolby" revision="sony" />
-    <project remote="Lunaris-AOSP" path="vendor/lunaris-priv/keys" name="Lunaris-AOSP/vendor_lunaris-priv_keys" revision="16" />
+    <project remote="Lunaris-AOSP" path="vendor/lunaris-priv/keys" name="vendor_lunaris-priv_keys" revision="16" />
 </manifest>
